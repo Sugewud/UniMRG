@@ -2,7 +2,7 @@
   <h2 align="center"><strong>Generation Enhances Understanding in Unified Multimodal Models<br> via Multi-Representation Generation</strong></h2>
 
 <p align="center">
-  <a href="https://github.com/Sugewud">Zihan Su<sup>1,2†*</sup></a>,
+  <a href="https://github.com/Sugewud">Zihan Su</a><sup>1,2†*</sup>,
   Hongyang Wei<sup>1*</sup></a>,
   Kangrui Cen<sup>3*</sup></a>,
   Yong Wang<sup>2‡</sup></a>,
