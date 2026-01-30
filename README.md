@@ -22,7 +22,7 @@
 <div align="center">
 
 <div style="text-align: center;">
-  <!-- <a href='https://sugewud.github.io/Safe-Sora-project/'><img src='https://img.shields.io/badge/-ProjectPage-black?logo=github&style=flat-square)'></a> &nbsp; -->
+  <a href='https://sugewud.github.io/UniMRG-Project/'><img src='https://img.shields.io/badge/-ProjectPage-black?logo=github&style=flat-square)'></a> &nbsp;
   <a href='https://arxiv.org/abs/2601.21406'><img src='https://img.shields.io/badge/Paper-arXiv-b5212f.svg?style=flat-square&logo=arxiv)'></a> &nbsp;
   <a href='https://huggingface.co/papers/2601.21406'><img src='https://img.shields.io/badge/Paper-Hugging%20Face-yellow?style=flat-square&logo=huggingface)'></a>
   
@@ -45,7 +45,7 @@ We propose UniMRG, a simple yet effective architecture-agnostic post-training me
 ## 📖 BibTeX
 If you find our repo helpful, please consider leaving a star or cite our paper :)
 ```bibtex
-@misc{su2026generationenhancesunderstandingunified,
+@misc{UniMRG,
       title={Generation Enhances Understanding in Unified Multimodal Models via Multi-Representation Generation}, 
       author={Zihan Su and Hongyang Wei and Kangrui Cen and Yong Wang and Guanhua Chen and Chun Yuan and Xiangxiang Chu},
       year={2026},
