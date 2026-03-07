@@ -14,8 +14,8 @@
 <p align="center">
   <sup>1</sup> Tsinghua University 
   <sup>2</sup> AMAP, Alibaba Group <br>
-  <sup>3</sup> South China University of Technology
-  <sup>4</sup> Shanghai Jiao Tong University <br>
+  <sup>3</sup> Shanghai Jiao Tong University
+  <sup>4</sup> South China University of Technology <br>
   †Work done during internship at AMAP, Alibaba Group *Equal contribution ‡Project leadAuthor
 </p>
 
@@ -45,13 +45,10 @@ We propose UniMRG, a simple yet effective architecture-agnostic post-training me
 ## 📖 BibTeX
 If you find our repo helpful, please consider leaving a star or cite our paper :)
 ```bibtex
-@misc{UniMRG,
-      title={Generation Enhances Understanding in Unified Multimodal Models via Multi-Representation Generation}, 
-      author={Zihan Su and Hongyang Wei and Kangrui Cen and Yong Wang and Guanhua Chen and Chun Yuan and Xiangxiang Chu},
-      year={2026},
-      eprint={2601.21406},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2601.21406}, 
+@article{su2026generation,
+  title={Generation Enhances Understanding in Unified Multimodal Models via Multi-Representation Generation},
+  author={Su, Zihan and Wei, Hongyang and Cen, Kangrui and Wang, Yong and Chen, Guanhua and Yuan, Chun and Chu, Xiangxiang},
+  journal={arXiv preprint arXiv:2601.21406},
+  year={2026}
 }
 ```
