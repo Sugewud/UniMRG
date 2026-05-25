@@ -14,8 +14,8 @@
 <p align="center">
   <sup>1</sup> Tsinghua University 
   <sup>2</sup> AMAP, Alibaba Group <br>
-  <sup>3</sup> South China University of Technology
-  <sup>4</sup> Shanghai Jiao Tong University <br>
+  <sup>3</sup> Shanghai Jiao Tong University
+  <sup>4</sup> South China University of Technology <br>
   †Work done during internship at AMAP, Alibaba Group *Equal contribution ‡Project leadAuthor
 </p>
 
