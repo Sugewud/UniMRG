@@ -1,0 +1,7 @@
+torch==2.3.0
+xtuner==0.1.23
+transformers==4.45.2
+flash-attn==2.6.3
+deepspeed==0.16.7
+mmengine
+timm==0.9.12
